@@ -1,4 +1,4 @@
-# Frontend - Proyecto Grado 2024-2025 (Emigrado a nuevo repositorio)
+# Frontend - Proyecto Grado 2024-2025 (Emigrado a nuevo repositorio 2026)
 
 Frontend de la plataforma de cursos, construido con React y Vite. Este README contiene instrucciones de desarrollo, estructura del proyecto y las herramientas principales usadas.
 
