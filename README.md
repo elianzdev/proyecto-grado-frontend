@@ -1,4 +1,4 @@
-# Frontend - Proyecto Grado
+# Frontend - Proyecto Grado 2024-2025 (Emigrado a nuevo repositorio)
 
 Frontend de la plataforma de cursos, construido con React y Vite. Este README contiene instrucciones de desarrollo, estructura del proyecto y las herramientas principales usadas.
 
@@ -97,10 +97,4 @@ frontend
 - Puedes servir `dist/` desde cualquier servicio estático (Netlify, Vercel, Surge) o integrarlo con el backend.
 
 ---
-
-Si quieres, puedo:
-
-- Generar o actualizar un `frontend/README.md` en español más detallado (con ejemplos de `.env`).
-- Añadir ejemplos de `api.jsx` y `CartContext.jsx` si los necesitas.
-
 
